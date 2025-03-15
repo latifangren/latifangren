@@ -39,8 +39,7 @@
 
 ## 👋 Halo, Saya Latifan!
 
-<img align="right" height="270px" width="450px" alt="GIF" src="
-- URL baru (kucing): `https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif`" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
 ### Tentang Saya
 - 🏠 Berasal dari **KEBUMEN, INDONESIA**
