@@ -1,126 +1,106 @@
-# 🚀 Selamat Datang di Profil GitHub Saya!
+<!---------------------KONFIGURASI------------------------------>
+[h2]: https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&pause=1000&color=F1F5F7&Center=true&width=435&lines=Selamat+Datang+di+Profil+GitHub+Saya!
+[sk]: https://img.shields.io/badge/Skills-Bahasa_Pemrograman-informational.svg?&color=B22222&style=plastic
+[skm]: https://img.shields.io/badge/Saya%20bisa%20menggunakan%20:%20-cyan
+[mr-sklst]: https://img.shields.io/badge/Sedang%20mempelajari%20:%20-cyan
+[m-trs]: https://img.shields.io/badge/Minat_saya_meliputi_:_-cyan
+[ar]: https://img.shields.io/badge/%20⤵%20-007ACC
+[tg]: https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white
+[tg-lk]: https://t.me/latifan_id
+[yt]: https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white
+[yt-lk]: https://youtube.com/@Bangoor_72
+[fb]: https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white
+[fb-lk]: https://facebook.com/latifan.latifan.latifan.latif
+[php]: https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[html]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[css]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[js]: https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[android]: https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white
+[kotlin]: https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white
+[java]: https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[magisk]: https://img.shields.io/badge/Magisk-00B0FF.svg?style=for-the-badge&logo=android&logoColor=white
+[mod]: https://img.shields.io/badge/Android_Modding-76FF03.svg?style=for-the-badge&logo=android&logoColor=white
+[web]: https://img.shields.io/badge/Web_Development-1E88E5.svg?style=for-the-badge&logo=html5&logoColor=white
+[vws]: https://komarev.com/ghpvc/?username=latifangren&label=Pengunjung&color=00CED1&style=plastic
+[vs-lk]: https://github.com/antonkomarev/github-profile-views-counter
+
+<!-----------------------MULAI-------------------------->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Halo%2C+Saya+Latifan!;Pemula+yang+terus+belajar;Android+Developer+Enthusiast;Web+Developer+in+Progress" alt="Typing SVG" />
-</div>
+  
+[![vs-lk][vws]][vs-lk]
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=latifangren&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
----
+<!-----------------------TENTANG SAYA-------------------->
 
-## 👨‍💻 Tentang Saya
+<div align="left">
+<br>  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" height="300" alt="Coding GIF" />
-</div>
+## 👋 Halo, Saya Latifan!
 
-- 🏠 **Lokasi:** Kebumen, Indonesia
-- 💻 **Status:** Pemula yang sedang belajar programming
-- 🌱 **Filosofi:** Suka copy paste kode, tapi juga berusaha memahaminya
-- 🛠️ **Minat:** Pengembangan aplikasi Android & Web Development
-- 🔧 **Hobi:** Mengutak-atik Magisk dan modul Android
-- 📚 **Belajar:** JavaScript, Kotlin, Java, dan teknologi web modern
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
----
+### Tentang Saya
+- 🏠 Berasal dari **KEBUMEN, INDONESIA**
+- 💻 Pemula yang sedang belajar programming
+- 🌱 Suka copy paste kode, tapi juga berusaha memahaminya
+- 🛠️ Tertarik dengan pengembangan aplikasi Android
+- 🔧 Suka mengutak-atik Magisk dan modul Android
 
-## 🛠️ Skills & Technologies
+<br>
 
-### 💻 Bahasa Pemrograman yang Saya Kuasai
-<div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
+### Kontak & Sosial Media
+[![tg-lk][tg]][tg-lk] [![yt-lk][yt]][yt-lk] [![fb-lk][fb]][fb-lk]
 
-### 🔄 Sedang Mempelajari
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</div>
+<hr>
 
-### 🎯 Minat & Spesialisasi
-<div align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Magisk-00B0FF?style=for-the-badge&logo=android&logoColor=white" alt="Magisk" />
-  <img src="https://img.shields.io/badge/Android_Modding-76FF03?style=for-the-badge&logo=android&logoColor=white" alt="Android Modding" />
-  <img src="https://img.shields.io/badge/Web_Development-1E88E5?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
-</div>
+<!------------------------KEAHLIAN------------------------->
+[![readme-typing-svg][h2]](https://github.com/latifangren) <br>
+![sk] <br><br>
+![skm] ![ar] <br><br> 
+[![latifangren][php]](https://github.com/latifangren) 
+[![latifangren][html]](https://github.com/latifangren) 
+[![latifangren][css]](https://github.com/latifangren) 
+<hr>
 
----
+![mr-sklst] ![ar] <br><br> 
+[![latifangren][js]](https://github.com/latifangren) 
+[![latifangren][kotlin]](https://github.com/latifangren) 
+[![latifangren][java]](https://github.com/latifangren) 
+<hr>
 
-## 📊 GitHub Stats
+![m-trs] ![ar] <br><br> 
+![magisk] ![mod] ![web] ![android]
+<hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latifangren&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifangren&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifangren&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Pencapaian GitHub
-
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" height="100" alt="Pull Shark" />
-  <p><strong>Pull Shark</strong> - Berhasil membuat pull request yang berkualitas</p>
-</div>
-
----
-
+<!------------------------PROYEK UNGGULAN------------------------>
 ## 📚 Proyek Unggulan
 
-<div align="center">
-  <a href="https://github.com/latifangren/webui_bfm_argon_Extended">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=latifangren&repo=webui_bfm_argon_Extended&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="WebUI BFM Extended" />
-  </a>
-</div>
+<a href="https://github.com/latifangren/webui_bfm_argon_Extended">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=latifangren&repo=webui_bfm_argon_Extended&theme=dark" />
+</a>
 
----
+<hr>
 
-## 🌐 Kontak & Sosial Media
+## 🎯 Pencapaian GitHub
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" height="100" />
 
-<div align="center">
-  <a href="https://t.me/latifan_id">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://youtube.com/@Bangoor_72">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://facebook.com/latifan.latifan.latifan.latif">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
-
----
-
-## 🐍 Contribution Graph
+<hr>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=latifangren&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-
----
-
-## 💭 Quote Favorit
 
 <div align="center">
-  <blockquote>
-    <p><em>"Saya tidak peduli jika saya dianggap bodoh oleh orang bodoh"</em> - <strong>Cato</strong></p>
-    <p><em>"Saya hanya pemula yang terus belajar dan berkembang setiap hari"</em> - <strong>Latifan</strong></p>
-  </blockquote>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifangren&theme=radical" alt="GitHub Streak" />
 </div>
+<hr>
 
----
-
+### 📝 Quote
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Terima+Kasih+Sudah+Mengunjungi+Profil+Saya!;Jangan+Lupa+Follow+dan+Star+Repository+Saya!;Selamat+Berkoding!+%F0%9F%9A%80" alt="Thank You" />
+  <i>"Saya tidak peduli jika saya dianggap bodoh oleh orang bodoh"</i> - Cato<br>
+  <i>"Saya hanya pemula yang terus belajar dan berkembang setiap hari"</i>
 </div>
+
+<!-------------------------AKHIR-------------------------->
