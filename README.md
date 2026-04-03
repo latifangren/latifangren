@@ -40,10 +40,10 @@
 
 ## 🔨 Now Building
 
-- **Proxy Garden**: IPv6/NAT64 proxy control plane with API + WebUI for USB tethering, LAN, and Wi-Fi uplinks
-- **modconn**: multi-PDN LTE manager with per-slot HTTP/SOCKS proxies and ops controls
+- **Proxy Garden**:proxy control plane with API + WebUI for USB tethering, LAN, and Wi-Fi uplinks
+- **modconn**:LTE manager with per-slot HTTP/SOCKS proxies and ops controls
 - **Stealth Bot**: automation runner + local control panel for multi-proxy workflow orchestration
-- **mprox-android**: rooted Android NAT64 capability tester with JSON report export
+- **mprox-android**: rooted Android capability tester with JSON report export
 - **mobile-proxy-platform**: distributed architecture (agent + control plane + gateway + dashboard)
 
 ---
@@ -52,10 +52,10 @@
 
 ### 1) Proxy & Networking Systems
 - Building control-plane style tools for proxy slot lifecycle (discover, test, rotate, rebuild)
-- Experimenting with IPv6 pool automation and NAT64 egress behavior
+- Experimenting with IPv6 pool automation and  egress behavior
 
 ### 2) Android Networking Tooling
-- Building on-device NAT64 testing workflows
+- Building on-device testing workflows
 - Combining Android shell/network probing with reproducible reports
 
 ### 3) Operator UX & Reliability
