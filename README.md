@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Latifan
-**Android Tinkerer • Aspiring Software Developer • Open Source Learner**
+**Android Tinkerer • Network Automation Builder • Open Source Learner**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=latifangren&label=Profile%20Views&color=00bcd4&style=flat)](https://github.com/latifangren)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/latifan_id)
@@ -15,9 +15,9 @@
 ## 🚀 About Me
 
 - 🏠 From **Kebumen, Indonesia**
-- 💻 Learning by building real projects and tools
-- 🔧 Interested in **Android Modding**, **Web Development**, and practical automation
-- 🌱 Currently improving coding fundamentals and project architecture
+- 💻 Learning by building real systems and operator tools
+- 🔧 Focused on **Android networking**, **proxy infrastructure**, and practical automation
+- 🌱 Currently improving software architecture, testing habits, and deployment workflows
 
 ---
 
@@ -27,6 +27,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -36,26 +40,48 @@
 
 ## 🔨 Now Building
 
-- Better, cleaner, and more maintainable project structure
-- Practical tools for Android/network workflows
-- Stronger Git/GitHub workflow (branching, changelog, release discipline)
+- **Proxy Garden**: IPv6/NAT64 proxy control plane with API + WebUI for USB tethering, LAN, and Wi-Fi uplinks
+- **modconn**: multi-PDN LTE manager with per-slot HTTP/SOCKS proxies and ops controls
+- **Stealth Bot**: automation runner + local control panel for multi-proxy workflow orchestration
+- **mprox-android**: rooted Android NAT64 capability tester with JSON report export
+- **mobile-proxy-platform**: distributed architecture (agent + control plane + gateway + dashboard)
+
+---
+
+## 📂 Current Project Focus
+
+### 1) Proxy & Networking Systems
+- Building control-plane style tools for proxy slot lifecycle (discover, test, rotate, rebuild)
+- Experimenting with IPv6 pool automation and NAT64 egress behavior
+
+### 2) Android Networking Tooling
+- Building on-device NAT64 testing workflows
+- Combining Android shell/network probing with reproducible reports
+
+### 3) Operator UX & Reliability
+- Improving WebUI usability for large slot counts
+- Standardizing runbooks for start/verify/rollback/cleanup workflows
 
 ---
 
 ## 🗺️ Learning Roadmap
 
-- [ ] Build more production-style repositories
-- [ ] Improve testing habit and debugging strategy
-- [ ] Publish clearer documentation for each project
+- [ ] Ship cleaner production-style repos (docs, tests, release notes)
+- [ ] Improve testing depth for network edge cases
+- [ ] Strengthen observability and troubleshooting standards
 - [ ] Contribute more consistently to open-source work
 
 ---
 
 ## 📌 Featured Project
 
-<a href="https://github.com/latifangren/webui_bfm_argon_Extended">
+<a href="https://github.com/latifangren">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=latifangren&repo=webui_bfm_argon_Extended&theme=tokyonight" />
 </a>
+
+<br/><br/>
+
+> I actively maintain multiple networking-focused projects locally (proxy control plane, modem tooling, Android NAT64 tester, and distributed proxy platform). Public repo curation is in progress.
 
 ---
 
@@ -75,7 +101,7 @@
 
 I'm open to:
 - beginner-friendly open source collaboration
-- Android/web utility projects
+- Android/network utility projects
 - learning-focused teamwork
 
 If you want to collaborate, reach me on **Telegram** 👇
