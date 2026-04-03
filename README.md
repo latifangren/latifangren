@@ -3,6 +3,8 @@
 # 👋 Hi, I'm Latifan
 **Android Tinkerer • Network Automation Builder • Open Source Learner**
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="360" alt="Cat typing on laptop" />
+
 [![Profile Views](https://komarev.com/ghpvc/?username=latifangren&label=Profile%20Views&color=00bcd4&style=flat)](https://github.com/latifangren)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/latifan_id)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@Bangoor_72)
