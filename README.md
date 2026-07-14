@@ -97,19 +97,6 @@ $ query-host --node latifan
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
 </p>
 
----
-
-### 🛠️ Active Operations [Active Subroutines]
-
-| Sector / Project | Codebase Description | Node Target | Status |
-| :--- | :--- | :--- | :--- |
-| **Proxy Garden** | Proxy control plane supporting tethered USB connections + LAN/Wi-Fi uplink clusters | `Proxy Ops` | `🟢 RUNNING` |
-| **modconn** | LTE port management suite exposing isolated HTTP/SOCKS proxies + signal instrumentation | `Mobile Proxy` | `🟢 INTEGRATING` |
-| **Stealth Bot** | Process orchestrator utilizing local consoles to manage multi-tier proxy execution flows | `Automation` | `🟡 STABLE` |
-| **mprox-android** | Mobile diagnostic engine testing capability constraints on rooted Android nodes | `Networking` | `🟡 REFACTORING` |
-| **mobile-proxy-platform** | Global schema mapping out distributed gateways, client agents, and command panel | `System Design` | `🔵 PLANNED` |
-
----
 
 ### 📂 Mainframe Directory [Featured Repositories]
 
