@@ -22,9 +22,9 @@ const JET_X_START = 35;
 const JET_X_END = 478;
 const LOOP_DUR = 20; // seconds, one full there-and-back pass
 const MAX_TARGETS = 12; // how many busiest days jet shoots
-const FLASH_COLOR = "#39d353";
-const BULLET_COLOR = "#7ee787";
-const BLAST_COLOR = "#56d364";
+const FLASH_COLOR = "#86efac";
+const BULLET_COLOR = "#4ade80";
+const BLAST_COLOR = "#22c55e";
 const PAD_Y = 128;
 
 const GRAPHQL_QUERY = `
@@ -207,17 +207,6 @@ function buildBulletsAndBlasts(targets) {
   return { bullets, blasts };
 }
 
-function buildStars() {
-  const pts = [
-    [8, 20, 1.2], [8, 60, 1.6], [8, 100, 2.0],
-    [505, 25, 1.2], [505, 70, 1.6], [505, 110, 2.0],
-    [30, 164, 1.2], [483, 164, 1.6],
-  ];
-  return pts.map(([x, y, dur]) =>
-    `<circle cx="${x}" cy="${y}" r="1.1" fill="#8b949e"><animate attributeName="opacity" values="0.2;1;0.2" dur="${dur}s" repeatCount="indefinite"/></circle>`
-  ).join("\n");
-}
-
 function buildJet() {
   return `<g id="jet">
   <g transform="translate(0,0)">
@@ -241,9 +230,10 @@ function buildSvg(weeks) {
   const targets = pickTargets(cells);
   const { bullets, blasts } = buildBulletsAndBlasts(targets);
 
-  return `<svg viewBox="0 0 ${WIDTH} ${HEIGHT}" xmlns="http://www.w3.org/2000/svg">
-<rect x="0" y="0" width="${WIDTH}" height="${HEIGHT}" fill="#0d1117"/>
-${buildStars()}
+  return `<svg viewBox="0 0 ${WIDTH} ${HEIGHT}" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">GitHub contribution heatmap with animated jet</title>
+<desc id="desc">The jet highlights busy contribution days across the last 34 weeks.</desc>
+<rect x="0" y="0" width="${WIDTH}" height="${HEIGHT}" fill="#081018"/>
 <g id="grid">
 ${buildGrid(cells, targets)}</g>
 <g id="bullets">

@@ -14,12 +14,13 @@
 ### 🧰 Stack
 
 ```
-Go · TypeScript · PHP · C · JavaScript · Rust
-OpenWrt · Linux · Docker · Magisk · Android
+Backend    Go · Rust · TypeScript
+Frontend   React · Svelte
+Infra      Linux · OpenWrt · Docker · Android
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,php,c,js,rust,linux,docker,bash,git&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,react,svelte,linux,docker,bash,git&theme=dark" alt="tech stack" />
 </p>
 
 ---
@@ -28,7 +29,7 @@ OpenWrt · Linux · Docker · Magisk · Android
 
 | Repo | About | ⭐ |
 |:-----|:------|:--:|
-| [webui_bfm_Extended](https://github.com/latifangren/webui_bfm_Extended) | WebUI for Box for Magisk/KernelSU — PHP + HTML responsive dashboard | 20 |
+| [webui_bfm_Extended](https://github.com/latifangren/webui_bfm_Extended) | WebUI for Box for Magisk/KernelSU — responsive dashboard (archived) | 20 |
 | [mihombreng](https://github.com/latifangren/mihombreng) | Mihomo (Clash Meta) controller for OpenWrt/Linux — Go backend + React UI | 7 |
 | [QManager-GO](https://github.com/latifangren/QManager-GO) | Modem manager for Quectel modems (RG501Q/RM520N) — full Go rewrite | 3 |
 | [raevtar](https://github.com/latifangren/raevtar) | Lightweight CMS in Go — templ, HTMX, SQLite, auto-publish agent | — |
