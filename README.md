@@ -62,12 +62,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=latifangren&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
 ---
 
 ### 📊 Stats
