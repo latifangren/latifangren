@@ -29,7 +29,7 @@ Infra      Linux · OpenWrt · Docker · Android
 
 | Repo | About | ⭐ |
 |:-----|:------|:--:|
-| [webui_bfm_Extended](https://github.com/latifangren/webui_bfm_Extended) | WebUI for Box for Magisk/KernelSU — responsive dashboard (archived) | 20 |
+| [BFR-WEBUI-GO](https://github.com/latifangren/BFR-WEBUI-GO) | Box for Root WebUI — full Go rewrite, modern dashboard | — |
 | [mihombreng](https://github.com/latifangren/mihombreng) | Mihomo (Clash Meta) controller for OpenWrt/Linux — Go backend + React UI | 7 |
 | [QManager-GO](https://github.com/latifangren/QManager-GO) | Modem manager for Quectel modems (RG501Q/RM520N) — full Go rewrite | 3 |
 | [raevtar](https://github.com/latifangren/raevtar) | Lightweight CMS in Go — templ, HTMX, SQLite, auto-publish agent | — |
