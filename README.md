@@ -13,15 +13,39 @@
 
 ### 🧰 Stack
 
-```
-Backend    Go · Rust · TypeScript
-Frontend   React · Svelte
-Infra      Linux · OpenWrt · Docker · Android
-```
+**Backend**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,react,svelte,linux,docker,bash,git&theme=dark" alt="tech stack" />
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+</p>
+
+**Infra & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+### 🎯 Currently Working On
+
+- 🔧 **[BFR-WEBUI-GO](https://github.com/latifangren/BFR-WEBUI-GO)** — Rewriting Box for Root WebUI in Go
+- 🌐 **[mihombreng](https://github.com/latifangren/mihombreng)** — Mihomo controller for OpenWrt
+- 📡 **[QManager-GO](https://github.com/latifangren/QManager-GO)** — Quectel modem manager in Go
 
 ---
 
@@ -36,6 +60,14 @@ Infra      Linux · OpenWrt · Docker · Android
 | [dockpanel](https://github.com/latifangren/dockpanel) | Server management panel — Rust + React, Docker, Git deploy, DNS, mail | — |
 | [BreezeMate](https://github.com/latifangren/BreezeMate) | Low-level utility written in C | — |
 | [DeckCase](https://github.com/latifangren/DeckCase) | Toolbox project | — |
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=latifangren&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+</p>
 
 ---
 
@@ -58,11 +90,29 @@ Infra      Linux · OpenWrt · Docker · Android
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=latifangren&theme=github-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=c9d1d9&area=true&area_color=22c55e" alt="activity graph" width="100%" />
+</p>
+
+---
+
 ### 🔥 Contribution Heatmap
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/latifangren/latifangren/main/dist/github-jet.svg" alt="GitHub contribution heatmap with animated jet" width="100%" />
 </p>
+
+---
+
+### 🐍 Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/latifangren/latifangren/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/latifangren/latifangren/output/github-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/latifangren/latifangren/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
