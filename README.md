@@ -87,15 +87,7 @@
   </a>
 </p>
 
----
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=latifangren&theme=github-dark&hide_border=true&bg_color=0d1117&color=22c55e&line=22c55e&point=c9d1d9&area=true&area_color=22c55e" alt="activity graph" width="100%" />
-</p>
-
----
 
 ### 🔥 Contribution Heatmap
 
