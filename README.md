@@ -57,7 +57,6 @@
 | [mihombreng](https://github.com/latifangren/mihombreng) | Mihomo (Clash Meta) controller for OpenWrt/Linux — Go backend + React UI | 7 |
 | [QManager-GO](https://github.com/latifangren/QManager-GO) | Modem manager for Quectel modems (RG501Q/RM520N) — full Go rewrite | 3 |
 | [raevtar](https://github.com/latifangren/raevtar) | Lightweight CMS in Go — templ, HTMX, SQLite, auto-publish agent | — |
-| [dockpanel](https://github.com/latifangren/dockpanel) | Server management panel — Rust + React, Docker, Git deploy, DNS, mail | — |
 | [BreezeMate](https://github.com/latifangren/BreezeMate) | Low-level utility written in C | — |
 | [DeckCase](https://github.com/latifangren/DeckCase) | Toolbox project | — |
 
